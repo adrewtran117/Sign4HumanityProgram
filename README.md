@@ -5,15 +5,15 @@ Credit to Nicholas Renotte for showing us how to use a lot of the dependencies' 
 
 Thank You to Rishab for showing us how to create a UI using PySimpleGui, also something we have never tried: https://www.youtube.com/watch?v=Z2AKGjc8bqk&t=1022s
 
-TO RUN THE FLASK TRY THESE STEPS
+# TO RUN THE FLASK TRY THESE STEPS
 To access the Flask Website
-# 1) python3 -m venv env (Set Virtual Environment)
-# 2) check intrepreter (Choose one that says ‘env’)
-# 3) new terminal (Open a new terminal using the new env)
-# 4) python -m pip install --upgrade pip (check for updated pip)
-#5) python -m pip install flask (check for flask installation)
+1) python3 -m venv env (Set Virtual Environment)
+2) check intrepreter (Choose one that says ‘env’)
+3) new terminal (Open a new terminal using the new env)
+4) python -m pip install --upgrade pip (check for updated pip)
+5) python -m pip install flask (check for flask installation)
 
-#DIFFICULTIES WE ENCOUNTERED
+# DIFFICULTIES WE ENCOUNTERED
 At first, other IDE's such as VSCode or PyCharm did not work well for us. Therefore we all tried out Jupyter for the first time. 
 
 Then, we had trouble importing a lot of the dependencies, especially TensorFlow. Specific Tensorflow verions seem to only work with specific Python versions so we had to look into that a lot. Along the way, we at one point needed Anaconda to help get things working. 
@@ -26,13 +26,13 @@ Lastly, perhaps we didn't data collect enough frames, folders, etc. Perhaps it w
 
 In the end, we worked through a lot of the problems and got a Minimal Viable Product to turn in. 
 
-#THINGS WE LEARNED
+# THINGS WE LEARNED
 To start, almost 100% of the things we did were new to us. Using Jupyter, Tensorflow ML, OpenCV camera, MediaPipe's HandRecognition Library, PySimpleGUI, and some HTML and CSS techniques. The only thing we have done before was using the Turtle :)  . Almost everything was a learning process along the way, with the internet as our greatest resource. We put 2 links at the top of this Read.Me file to thank our 2 biggest helpers.
 
-#WHAT WE ENJOYED
+# WHAT WE ENJOYED
 Since we worked in a group, it was fun bouncing ideas off of each other. Sometimes someone would get a spark of an idea and we would all work and brainstorm how to implement the new ideas. When facing bugs, we also provided us each other with advice and change in logic for the code to get things working. Furthermore, we enjoyed this project because it was made up of brand new topics that we haven't learned. Finally, our project is catered to a Social Good which we believe coding should always be used for. 
 
-#IN THE FUTURE
+# IN THE FUTURE
 In the future, we probably will continue to work on the project after this course when we learn new things in the field of CS. We hope to be able to directly run the program through the Flask Website through a button or something similar. Furthermore, we also hope to increase the accuracy of our signs and then add more signs. HTML and CSS could always be worked on to make a better looking website. Our biggest endeavor is hopefully connecting 2 people together so that they can "message" each other using the turtle as if they were texting on their phones, except through our program and with sign language. 
 
 
