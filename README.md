@@ -17,7 +17,7 @@ To access the Flask Website
 # DIFFICULTIES WE ENCOUNTERED
 At first, other IDE's such as VSCode or PyCharm did not work well for us. Therefore we all tried out Jupyter for the first time. 
 
-Then, we had trouble importing a lot of the dependencies, especially TensorFlow. Specific Tensorflow verions seem to only work with specific Python versions so we had to look into that a lot. Along the way, we at one point needed Anaconda to help get things working. 
+Then, we had trouble importing a lot of the dependencies, especially TensorFlow. Specific Tensorflow versions seem to only work with specific Python versions so we had to look into that a lot. Along the way, we at one point needed Anaconda to help get things working. 
 
 At one point, we tried to embed the program into a website. When that didn't work, we tried to have a button within the website that launched the code. That didn't work. Therefore, our final product has the code and website running seperately, with the website having a tutorial tab on how to start the code. 
 
