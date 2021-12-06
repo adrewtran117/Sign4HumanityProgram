@@ -12,6 +12,7 @@ To access the Flask Website
 3) new terminal (Open a new terminal using the new env)
 4) python -m pip install --upgrade pip (check for updated pip)
 5) python -m pip install flask (check for flask installation)
+6) Type 'python -m flask run' into terminal and click popup in terminal to open
 
 # DIFFICULTIES WE ENCOUNTERED
 At first, other IDE's such as VSCode or PyCharm did not work well for us. Therefore we all tried out Jupyter for the first time. 
